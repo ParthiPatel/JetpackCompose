@@ -1,11 +1,11 @@
 # JetpackCompose
 
 Column : arrange elements vertically
-    horizontalAlignment
-    verticalArrangement
+    -horizontalAlignment
+    -verticalArrangement
     
 Row : arrange items horizontally
-   horizontalArrangement
-   verticalAlignment
+   -horizontalArrangement
+   -verticalAlignment
    
 Box : to stack elements(just like frameLayout).
